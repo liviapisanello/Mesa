@@ -1,6 +1,5 @@
 import win32com.client as win32
 from selenium import webdriver
-import pyautogui
 import time
 
 outlook = win32.Dispatch("outlook.application")
